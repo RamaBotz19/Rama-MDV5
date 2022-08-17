@@ -2,7 +2,7 @@
 // BASE ILMANHDYT
 // SC ORI HYZER
 // CREATOR KRIZYN OFC
-// RECODE BY RIEL OFC
+// RECODE BY Rama
 
 //=============『 Utama 』================== //
 global.owner = ['6287793236775'] 
@@ -10,16 +10,16 @@ global.mods = ['6287793236775']
 global.prems = ['6287793236775'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Rama OFFC'
+global.nameowner = '𝘼𝙅𝙄 𝙊𝙬𝙣𝙚𝙧'
 global.numberowner = '6287793236775'
 global.instagram = 'https://instagram.com/ahmdzakaria47'
-global.github = 'https://github.com/RamaBotz9'
+global.github = 'https://github.com/RamaBotz19'
 global.dana = '_'
 global.pulsa = '087793236775'
-global.gopay = '087793236775'
+global.gopay = '085338890541'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'R A M A M D'
+global.namebot = '𝙍𝙖𝙢𝙖𝘽𝙤𝙩𝙯-𝙈𝘿'
 global.gc = 'https://chat.whatsapp.com/GHYcXOeWZZr9DfmxzupMLS'
 global.web = 'https://instagram.com/ahmdzakaria47' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/ahmdzakaria47'
