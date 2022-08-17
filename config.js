@@ -26,14 +26,14 @@ global.webm = 'https://instagram.com/ahmdzakaria47'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/8f318010fc2b47cffb787.jpg.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/8f318010fc2b47cffb787.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© RamaBotz'
+global.wm = '© 𝙍𝙖𝙢𝙖𝘽𝙤𝙩𝙯-𝙈𝘿'
 global.watermark = wm
-global.wm2 = 'ᯤ RamaBotz'
-global.wm3 = 'ᯤ Rama 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ 𝙍𝙖𝙢𝙖𝘽𝙤𝙩𝙯-𝙈𝘿'
+global.wm3 = 'ᯤ 𝙍𝙖𝙢𝙖-𝙈𝘿𝙑5'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -43,8 +43,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'RamaBotz'
-global.author = '@Rama'
+global.packname = '𝙍𝙖𝙢𝙖𝘽𝙤𝙩𝙯-𝙈𝘿'
+global.author = '𝘼𝙟𝙞'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
